@@ -8,8 +8,8 @@
 ---
 
 ### 👨‍💻 About Gus
-💯 - Estudante no Senai
-🎯 - Aprendiz hoje, futuro Dev. Sênior
+- 💯 Estudante no Senai
+- 🎯 Aprendiz hoje, futuro Dev. Sênior
 
 ---
 
