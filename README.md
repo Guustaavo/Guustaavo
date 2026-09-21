@@ -11,6 +11,8 @@
 - 💯 Estudante no Senai
 - 🎯 Aprendiz hoje, futuro Dev. Sênior
 
+---
+
 <p align="center">
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS"/>
