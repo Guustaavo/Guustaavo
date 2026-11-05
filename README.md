@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 Gus Station
-`git commit -m "códigos que tomara que funcionem"`
+`git commit -m "códigos do winner"`
 
 </div>
 
