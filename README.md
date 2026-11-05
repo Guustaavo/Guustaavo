@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Gus
 - 💯 Estudante no Senai
-- 🎯 Aprendiz hoje, futuro Dev. Sênior
+- 🎯 Desenvolvimento de Software
 
 ---
 
