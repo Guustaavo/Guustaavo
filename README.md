@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 Gus Station
-`git commit -m "códigos do winner"`
+`git commit -m "feat: continuous learning and building"`
 
 </div>
 
@@ -35,4 +35,11 @@
     <a href="https://vercel.com/guustaavo" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/>
     </a>
+    <a href="https://www.iso.org/standard/76583.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" alt="SQL"/>
+    </a>
+    <a href="https://postgresql.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+    </a>
+
 </p>
